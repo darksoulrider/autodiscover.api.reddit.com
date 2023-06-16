@@ -1,1 +1,1 @@
-# autodiscover.api.reddit.com
+# snapcaht-dns-conf
